@@ -8,3 +8,6 @@ I fixed navigation link for "search engine optimization", added commentary to bo
 *CSS
 
 ## Website 
+https://acastilleja.github.io/Challenge1/
+
+Made with ♥️ by ACastilleja
